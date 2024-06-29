@@ -1,0 +1,37 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v156)
+"   /root/node_modules
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+./
+.bin/
+@ampproject/
+@babel/
+@bcoe/                                                                                                                                               
+@eslint-community/
+@eslint/
+@humanwhocodes/
+@istanbuljs/
+@jest/
+@jridgewell/
+@nicolo-ribaudo/
+@nodelib/
+@sinclair/
+@sinonjs/
+@types/
+abs/
+acorn-jsx/
+acorn/
+ajv/
+ansi-escapes/
+ansi-regex/
+ansi-styles/
+anymatch/
+argparse/
+arr-diff/
+arr-flatten/
+arr-union/
+                                                                                                                                   13,1          Top
